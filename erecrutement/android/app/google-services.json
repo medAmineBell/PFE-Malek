@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182921035370",
+    "project_id": "test1fcm-d0e1a",
+    "storage_bucket": "test1fcm-d0e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182921035370:android:da895d38f0e8a34d2ad413",
+        "android_client_info": {
+          "package_name": "com.kaizen.erecrutement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182921035370-hljikvldi323d5ffbn7b632pbv0r6b8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbM32pJy0J8bQAHHXfZ3sPVXGKdC8aZAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182921035370-hljikvldi323d5ffbn7b632pbv0r6b8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
